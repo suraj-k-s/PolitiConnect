@@ -1,0 +1,26 @@
+SMAP
+NewUserList_jsp.java
+JSP
+*S JSP
+*F
++ 0 NewUserList.jsp
+Admin/NewUserList.jsp
++ 1 SessionValidator.jsp
+Admin/SessionValidator.jsp
++ 2 Header.jsp
+Admin/Header.jsp
++ 3 Footer.jsp
+Admin/Footer.jsp
+*L
+5,2:52
+7:54,9
+8,7:63
+2#1,6:71
+14#0,2:77
+1#2,43:79
+44:122,3
+45,87:125
+15#0,2:212
+1#3,48:214
+16#0,23:262
+*E

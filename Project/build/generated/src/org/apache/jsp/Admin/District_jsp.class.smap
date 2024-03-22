@@ -1,0 +1,37 @@
+SMAP
+District_jsp.java
+JSP
+*S JSP
+*F
++ 0 District.jsp
+Admin/District.jsp
++ 1 SessionValidator.jsp
+Admin/SessionValidator.jsp
++ 2 Header.jsp
+Admin/Header.jsp
++ 3 Footer.jsp
+Admin/Footer.jsp
+*L
+5,2:52
+7:54,9
+8,7:63
+2#1,6:71
+14#0,2:77
+1#2,43:79
+44:122,3
+45,67:125
+15#0,4:192
+18,30:196
+47,22:226
+69,2:248,3
+71,21:254
+92,8:276
+99,2:284
+101,3:286,3
+104:295,5
+105,2:300
+106,4:302
+109,14:306
+1#3,48:320
+122#0,3:368
+*E
